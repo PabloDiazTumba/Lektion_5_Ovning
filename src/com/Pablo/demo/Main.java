@@ -13,7 +13,7 @@ public class Main {
 
         int x;
         while (true) {
-            System.out.println("Please enter a number (X):");
+            System.out.println("Please enter a number: ");
 
             if (sc.hasNextInt()) {
                 x = sc.nextInt();
